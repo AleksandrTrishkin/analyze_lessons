@@ -1,2 +1,2 @@
 # analyze_lessons
-The analyze lesson (python, sql)
+The analyze lessons (python, sql)
